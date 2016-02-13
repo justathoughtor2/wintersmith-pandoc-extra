@@ -4,7 +4,9 @@
 
 ### install:
 
-    npm install wintersmith-pandoc-extra
+    npm install --save-dev wintersmith-pandoc-extra
+    cd node_modules/wintersmith-pandoc-extra
+    npm install
   
 then add `./node_modules/wintersmith-pandoc-extra/` to `config.json` like:
 
