@@ -1,6 +1,6 @@
 {
   "name": "wintersmith-pandoc-extra",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Pandoc plugin for Wintersmith with mermaid diagram support",
   "main": "index.js",
   "repository": {
@@ -14,7 +14,9 @@
     "mermaid"
   ],
   "contributors": [
-    "Jesse P Bohanan <thoughthaven@gmail.com>"
+    "Jesse P Bohanan <thoughthaven@gmail.com>",
+    "Luke Hagan",
+    "Kenneth Jørgensen"
   ],
   "license": "MIT",
   "bugs": {
