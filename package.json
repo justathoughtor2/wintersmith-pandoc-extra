@@ -14,14 +14,13 @@
     "mermaid"
   ],
   "contributors": [
-    "Luke Hagan (http://lukehagan.com)",
-    "Kenneth Jørgensen <kenneth@kennethjorgensen.com> (http://kennethjorgensen.com)"
+    "Jesse P Bohanan <thoughthaven@gmail.com>"
   ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kennethjor/wintersmith-pandoc/issues"
   },
-  "homepage": "https://github.com/kennethjor/wintersmith-pandoc",
+  "homepage": "https://github.com/justathoughtor2/wintersmith-pandoc-extra",
   "dependencies": {
     "async": "^0.9.0",
     "coffee-script": "^1.9.1",
